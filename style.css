@@ -1,0 +1,16 @@
+
+.head{
+    width: 686px;
+    height: 464px;
+    background-color: #0019f9;
+   position: relative;
+
+}
+.body{
+    width: 253px;
+    height: 190px;
+    background-color: red;
+    position: absolute;
+   right: 1px;
+   bottom: 1px;
+}
